@@ -45,6 +45,28 @@ millo/
 
 ## 🚀 Quick Start
 
+### Running the Application
+
+**Option 1: With Backend Server (Recommended)**
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Start the server:
+```bash
+npm start
+```
+
+3. Open your browser to: `http://localhost:3000/index.html`
+
+**Option 2: Static Files Only**
+
+Simply open `index.html` in your browser. Note: You'll need to configure your own backend API endpoints.
+
+For detailed server setup, see [SERVER_SETUP.md](SERVER_SETUP.md)
+
 ### Demo Accounts
 
 The platform comes with pre-configured demo accounts:
